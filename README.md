@@ -14,6 +14,9 @@ Current functionnalities:
   - Group ( instable)
   - Auto character creation
   - Bypass tutorial step for new account
+  - Set-Unset item from inventory
+  - Auto boost spells at levelup
+  - Auto boost characteristics at levelup
 
 Paths configuration:
   - name
