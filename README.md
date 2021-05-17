@@ -15,7 +15,6 @@ Current functionnalities:
   - Auto character creation
   - Bypass tutorial step for new account
 
-
 Paths configuration:
   - name
   - restrict fight by monsters id to fight only agaisnt given monsters  (however, fight against every monsters)
@@ -26,6 +25,7 @@ Paths configuration:
 
 
 Data models:
+  - Account: JSON file
   - Paths: JSON file
   - basic configuration: 
     - ```{"name":"inca to astrub","monsters":[],"ia":"","bank":{},"path":{
