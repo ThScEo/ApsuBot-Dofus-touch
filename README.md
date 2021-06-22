@@ -2,11 +2,15 @@
 ## Dofus Touch Bot compatible with latest version (1.51.0)
 
 ### Functionnalities
+- Auto create a new character with chosen class + random name
+- Auto upgrade spells
+- Auto upgrade stats
 - Fight
 - Return to bank
 - Interact with NPCs
 - Phoenix
 - Conditionnals action ( eg: If character have under 50% of his lifepoints, go to north, else go to south ) done with JSON files
+- A list of all usable conditions is available [here](https://rob-ot.ninja/documentation)
 - [Full documentation here](https://rob-ot.ninja/documentation)
 
 ### Prices
