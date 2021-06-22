@@ -1,116 +1,28 @@
-# DT-Auto
-Dofus Touch bot socket written in python.
+# Rob-ot
+## Dofus Touch Bot compatible with latest version (1.51.0)
 
-- HTTP Authentication with cloudscraper
-- Game authentication with socket
-- Game management with socket
-- Command-line only
+### Functionnalities
+- Fight
+- Return to bank
+- Interact with NPCs
+- Phoenix
+- Conditionnals action ( eg: If character have under 50% of his lifepoints, go to north, else go to south ) done with JSON files
+- [Full documentation here](https://rob-ot.ninja/documentation)
 
-Current functionnalities:
-  - Fight
-  - Move
-  - Interaction with npcs (dialogs, buy/sell items)
-  - Conditionnals programmation of paths (eg: execute dialog with given npc only if character have job id 41, move to right if character's lvl >15, etc..)
-  - Group ( instable)
-  - Auto character creation
-  - Bypass tutorial step for new account
-  - Set-Unset item from inventory
-  - Auto boost spells at levelup
-  - Auto boost characteristics at levelup
+### Prices
+- 12€/ 30 days licence
 
-Paths configuration:
-  - name
-  - restrict fight by monsters id to fight only agaisnt given monsters  (however, fight against every monsters)
-  - ia to use in fight
-  - bank path  
-  - conditions
-  - dialogs with conditions
+### How-to-buy
+- Visit [the Rob-ot's website](https://rob-ot.ninja/acheter-rob-ot-2)
+- Buy a licence key
+- Download Rob-ot from website
+- Enter your licence key
+- Done! Visit the forum, read the documentation to learn how to create paths, config files etc..
 
+### Screenshots
+![capture_1](https://user-images.githubusercontent.com/45556777/122970169-da39c280-d38d-11eb-8b62-f893978794e5.PNG)
+![capture_2](https://user-images.githubusercontent.com/45556777/122970174-db6aef80-d38d-11eb-972d-4657d9cbcfd1.PNG)
+![capture_3](https://user-images.githubusercontent.com/45556777/122970175-dc038600-d38d-11eb-824d-0bd3524acdd6.PNG)
 
-Data models:
-  - Account: JSON file
-  - Paths: JSON file
-  - basic configuration: 
-    - ```{"name":"inca to astrub","monsters":[],"ia":"","bank":{},"path":{
-        "{ 
-          -5,-1":{
-             "harvest":false,
-             "fight":false,
-             "move":[{"S":{"conditions":[]}}]
-          },
-          "-4,0":{
-             "harvest":false,
-             "fight":false,
-             "move":[{"R":{"conditions":[]}}]
-          }
-        }
-  - dialogs with conditions:
-    -  ``` {
-        "9,3": {
-        "fight": false,
-        "harvest": false,
-        "dialog": [
-          {
-            "888": {
-              "conditions": [
-                {"dontHaveJobId": 41}
-              ],
-              "action": 3,
-              "messages": {
-                "9828": [10537,10539],
-	              "9829": [10535],
-                "9830": [10540],
-                "17400": [33028]
-              }
-            }
-          }
-        ]
-      
-        
-  - more advanced dialog:
-    -  ``` { "2,-24":{
-         "harvest":false,
-         "fight":false,
-         "move":[
-           {"L":
-             {"conditions":[
-                  {"haveJobId": 41}
-                ]
-               }
-             }
-         ],
-         "dialog": [
-           {
-             "564": {
-               "conditions": [
-                 {"dontHaveJobId": 41}
-               ],
-               "action": 3,
-               "messages": {
-                 "2357": [1962,8835],
-                 "2358": [1963],
-                 "2359": [1964],
-                 "2361": [1965],
-                 "2362": [1966],
-                 "8800": [1968],
-                 "1175": [845]
-               }
-             }
-           },
-           {
-             "564b":{
-               "conditions": [
-                 {"haveJobId": 41},
-                 {"dontHaveWeaponSet": 1934}
-               ],
-               "action": 1,
-               "buy": 1934,
-               "messages":{}
-             }
-           }
-         ]```
-         
-- Views:
-  - ![image](https://user-images.githubusercontent.com/45556777/118512627-455efc00-b733-11eb-9f01-d480c6da11c1.png)
-  - ![image](https://user-images.githubusercontent.com/45556777/118512745-5dcf1680-b733-11eb-97f4-4345be1f87a4.png)
-
+### Questions / Suggestions
+For all questions and suggestions, feel free to create a thread [in the forum](https://rob-ot-ninja.forumactif.com)
