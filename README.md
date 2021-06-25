@@ -1,6 +1,9 @@
 # Rob-ot
 ## Dofus Touch Bot compatible with latest version (1.51.0)
 
+### Complete documentation with examples 
+[Here](https://rob-ot.ninja/documentation/)
+
 ### Functionnalities
 - Auto create a new character with chosen class + random name
 - Auto upgrade spells
