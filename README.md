@@ -9,6 +9,9 @@
 - Return to bank
 - Interact with NPCs
 - Phoenix
+- Bypass captcha verification ( you must by a anti-captcha.com api key, 10$ is enough )
+- Flood players with custom message
+- Read path, IA for fight, and credentials from JSON file. [More in the documentation](https://rob-ot.ninja/documentation)
 - Conditionnals action ( eg: If character have under 50% of his lifepoints, go to north, else go to south ) done with JSON files
 - A list of all usable conditions is available [here](https://rob-ot.ninja/documentation)
 - [Full documentation here](https://rob-ot.ninja/documentation)
