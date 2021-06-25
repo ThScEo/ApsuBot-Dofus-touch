@@ -14,12 +14,14 @@
 - [Full documentation here](https://rob-ot.ninja/documentation)
 
 ### Prices
-- 12€/ 30 days licence
+- Free: Trial license, limited to characters unders lvl 10
+- FUll : 12€/ 30 days licence
 
 ### How-to-buy
+- Register on [the forum](https://rob-ot-ninja.forumactif.com/) 
 - Visit [the Rob-ot's website](https://rob-ot.ninja/acheter-rob-ot-2)
 - Buy a licence key
-- Download Rob-ot from website
+- Download Rob-ot from forum
 - Enter your licence key
 - Done! Visit the forum, read the documentation to learn how to create paths, config files etc..
 
