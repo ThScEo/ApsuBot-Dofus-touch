@@ -18,7 +18,7 @@
 
 ### Prices
 - Free: Trial license, limited to characters unders lvl 10
-- FUll : 12€/ 30 days licence
+- Full : 12€/ 30 days licence
 
 ### How-to-buy
 - Register on [the forum](https://rob-ot-ninja.forumactif.com/) 
