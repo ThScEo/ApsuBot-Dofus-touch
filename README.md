@@ -1,5 +1,5 @@
 # ApsuBot
-## Dofus Touch Bot compatible with latest version (1.51.0)
+## Dofus Touch Bot compatible with latest version , constantly updated and upgraded
 
 ### Complete documentation with examples 
 [Here](https://rob-ot.ninja/documentation/)
