@@ -4,6 +4,9 @@
 ### Complete documentation with examples 
 [Here](https://rob-ot.ninja/documentation/)
 
+### Discord
+[Here](https://discord.gg/6se7gckM)
+
 ### Functionnalities
 - Auto create a new character with chosen class + random name
 - Auto upgrade spells
