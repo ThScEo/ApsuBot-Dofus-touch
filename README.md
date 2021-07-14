@@ -27,7 +27,7 @@
 - Full : 12€/ 30 days licence.
 
 ### How-to-buy
-- Register on [the forum](https://rob-ot-ninja.forumactif.com/) 
+- Register on [the forum](https://https://forum.apsu-bot.com/) 
 - Visit [the ApsuBot's website](https://rob-ot.ninja/acheter-rob-ot-2)
 - Buy a licence key
 - Download ApsuBot from forum
