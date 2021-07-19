@@ -5,7 +5,7 @@
 [Here](https://rob-ot.ninja/documentation/)
 
 ### Discord
-[Here](https://discord.gg/6se7gckM)
+[Here](https://discord.gg/2TFbzdyJac)
 
 ### Functionnalities
 - Auto create a new character with chosen class + random name
