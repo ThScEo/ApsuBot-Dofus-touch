@@ -34,7 +34,7 @@
 ![Capture](https://user-images.githubusercontent.com/45556777/124678574-19563080-dec3-11eb-9963-e401f42bc56b.PNG)
 
 ### Changelog
-See forum
+See Discord
 
 ### Tools
 - PathCreator ( see Discord)
