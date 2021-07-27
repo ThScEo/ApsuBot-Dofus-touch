@@ -5,7 +5,7 @@
 [Here](https://rob-ot.ninja/documentation/)
 
 ### Discord
-[Here](https://discord.gg/2TFbzdyJac)
+[Here](https://discord.gg/fBY5nVNCpM)
 
 ### Functionnalities
 - Auto create a new character with chosen class + random name
@@ -27,12 +27,7 @@
 - Full : 12€/ 30 days licence.
 
 ### How-to-buy
-- Register on [the forum](https://https://forum.apsu-bot.com/) 
-- Visit [the ApsuBot's website](https://rob-ot.ninja/acheter-rob-ot-2)
-- Buy a licence key
-- Download ApsuBot from forum
-- Enter your licence key
-- Done! Visit the forum, read the documentation to learn how to create paths, config files etc..
+- The bot is currently in beta and is free. Just use the trial key which you can see on the Discord server.
 
 ### Screenshots
 ![Capture2](https://user-images.githubusercontent.com/45556777/124678569-178c6d00-dec3-11eb-8695-b67482e23a9c.PNG)
@@ -42,8 +37,7 @@
 See forum
 
 ### Tools
-- PathCreator ( see forum)
-- FileCreator ( see forum)
+- PathCreator ( see Discord)
 
 ### Questions / Suggestions
 For all questions and suggestions, feel free to create a thread [in the forum](https://rob-ot-ninja.forumactif.com)
