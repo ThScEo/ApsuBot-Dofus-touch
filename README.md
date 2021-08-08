@@ -22,12 +22,6 @@
 - A list of all usable conditions is available [here](https://rob-ot.ninja/documentation)
 - [Full documentation here](https://rob-ot.ninja/documentation)
 
-### Prices
-- Free: Trial license, all functionnalities, but limited to characters unders lvl 10.
-- Full : 12€/ 30 days licence.
-
-### How-to-buy
-- The bot is currently in beta and is free. Just use the trial key which you can see on the Discord server.
 
 ### Screenshots
 ![Capture2](https://user-images.githubusercontent.com/45556777/124678569-178c6d00-dec3-11eb-8695-b67482e23a9c.PNG)
